@@ -1,6 +1,7 @@
-Dzień dobry!!!!
+Dobry wieczór!
 Druga linijka
-
+Trzecia linijka
 
 
 Koniec pliku
+Nie, tu jest koniec pliku.
